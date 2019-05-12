@@ -1,0 +1,8 @@
+/*svg style*/
+.wrap {width: 70px; height: 70px; float: left; margin: 20px 20px 0 20px;}
+.st0{fill:none;stroke:#040000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+.st1{fill:none;stroke:#040000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+/*animate*/
+#st0{stroke-dashoffset: 1500; stroke-dasharray: 1500; animation-name: kunanicon01; animation-duration: 1.8s; animation-timing-function: ease-in-out; animation-iteration-count: infinite; animation-direction: alternate;}
+#st1{stroke-dashoffset: 1500; stroke-dasharray: 1500; animation-name: kunanicon01; animation-duration: 1.8s; animation-timing-function: ease-in-out; animation-iteration-count: infinite; animation-direction: alternate;}
+@keyframes kunanicon01 {to{stroke-dashoffset: 0;}}

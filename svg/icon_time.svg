@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="time" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#070001;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M428.58,113.19c43.09,56.35,58.92,132.15,35.81,204.89c-37.61,118.41-164.07,183.9-282.47,146.31
+	S-1.99,300.33,35.6,181.92S199.67-1.98,318.08,35.61"/>
+<path class="st0" d="M199.09,213.55l36.28,40.68c6.3,7.06,17.15,7.61,24.13,1.22l83.7-76.68"/>
+<line class="st0" x1="65" y1="250" x2="104" y2="250"/>
+<line class="st0" x1="396" y1="250" x2="435" y2="250"/>
+<line class="st0" x1="250" y1="435" x2="250" y2="396"/>
+<line class="st0" x1="250" y1="104" x2="250" y2="65"/>
+</svg>
